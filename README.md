@@ -22,3 +22,4 @@ Google Query sheet
 Select * from table 1
 WHERE CONDITION = MET
 ```
+[](https://jobsintelregion.com/internship-program-2024-at-nethermind-remote-worlwide/)
